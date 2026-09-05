@@ -1,38 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BALAJI%20AKASH&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20CREATIVE%20TECH&descAlignY=62&descSize=16&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BALAJI%20AKASH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20%C3%97%20INTELLIGENCE%20%C3%97%20SOUND&descAlignY=62&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<!-- PROFILE PHOTO — replace with your hosted image/GitHub asset -->
-
-<img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="150" height="150" style="border-radius:50%;" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Computer+Science+Engineer;AI%2FML+%7C+Software+Engineering+%7C+DSA;Building+projects%2C+not+just+tutorials.;Code+on+one+screen.+Music+on+the+other." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+things+that+shouldn't+exist+yet.;Software+%C3%97+AI+%C3%97+Creativity;Turning+ideas+into+working+systems.;Engineering+by+day.+Engineering+sound+by+night." />
 
 <br><br>
 
 <a href="https://github.com/balajiakash6">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=VISITORS&style=for-the-badge&color=0F172A" />
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
-
-<a href="https://drive.google.com/file/d/1S3YkwX2mDXAp6Gmqa-Lwkye0rCOmaQKp/view?usp=sharing">
-<img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-<a href="mailto:balajiakash06@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=PROFILE+VIEWS&style=flat-square&color=1E293B"/>
 
 </div>
 
@@ -40,27 +24,66 @@
 
 <div align="center">
 
-## `CURRENT MISSION`
+## `01 / CURRENTLY IN THE LAB`
+
+</div>
+
+<table>
+<tr>
+<td width="70%">
 
 ### 🔎 LOSTLINK
 
-**Semantic Matching · Machine Learning · NLP**
+**Semantic intelligence for lost & found.**
 
-<br>
+What if a lost-and-found system didn't just search for
+keywords — but actually **understood what people meant?**
 
-`UNDER DEVELOPMENT`
+Currently exploring:
 
-</div>
+`NLP` · `Semantic Matching` · `Machine Learning` · `Information Retrieval`
 
-<p align="center">
-An ML-based approach to matching lost & found items by understanding descriptions rather than relying only on keywords.
-</p>
+</td>
+
+<td width="30%" align="center">
+
+```text
+STATUS
+
+████████████░░░
+
+BUILDING
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## `SELECTED BUILDS`
+## `02 / THINGS I'M OBSESSED WITH`
+
+</div>
+
+```text
+01 ── turning messy problems into elegant systems
+
+02 ── making software feel intelligent
+
+03 ── understanding what happens underneath the abstraction
+
+04 ── building things instead of just talking about them
+
+05 ── creating sounds from absolutely nothing
+```
+
+---
+
+<div align="center">
+
+## `03 / SELECTED BUILDS`
 
 </div>
 
@@ -69,25 +92,37 @@ An ML-based approach to matching lost & found items by understanding description
 
 <td width="50%" valign="top">
 
-### 🔎 LOSTLINK
+### 🔎 LostLink
 
-<img src="https://placehold.co/700x380/0f172a/38bdf8?text=LOSTLINK" width="100%" />
+**ML · NLP · Semantic Retrieval**
+
+An ML-based approach to intelligently matching lost and found item descriptions.
+
+`Python` `Machine Learning` `NLP`
 
 <br>
 
-`ML` `NLP` `SEMANTIC SEARCH`
+<a href="https://github.com/balajiakash6">
+→ EXPLORE PROJECT
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚇 METROMIND
+### 🚇 MetroMind
 
-<img src="https://placehold.co/700x380/0f172a/38bdf8?text=METROMIND" width="100%" />
+**AI · Automation · Systems**
+
+An intelligent scheduling concept designed around improving metro operations.
+
+`AI` `Automation` `Systems`
 
 <br>
 
-`AI` `AUTOMATION` `SYSTEMS`
+<a href="https://github.com/balajiakash6">
+→ EXPLORE PROJECT
+</a>
 
 </td>
 
@@ -97,25 +132,37 @@ An ML-based approach to matching lost & found items by understanding description
 
 <td width="50%" valign="top">
 
-### 🩸 BLOOD BANK
+### 🩸 Blood Bank Management
 
-<img src="https://placehold.co/700x380/0f172a/38bdf8?text=BLOOD+BANK" width="100%" />
+**Java · MySQL · Desktop**
+
+A management system built for handling blood-bank operations.
+
+`Java` `MySQL` `Swing`
 
 <br>
 
-`JAVA` `SWING` `MYSQL`
+<a href="https://github.com/balajiakash6">
+→ EXPLORE PROJECT
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎤 SPEAKERS HIVE
+### 🎤 Speakers Hive
 
-<img src="https://placehold.co/700x380/0f172a/38bdf8?text=SPEAKERS+HIVE" width="100%" />
+**Spring Boot · Backend · Web**
+
+A platform for managing speakers, events and bookings.
+
+`Java` `Spring Boot` `Thymeleaf`
 
 <br>
 
-`SPRING BOOT` `THYMELEAF` `H2`
+<a href="https://github.com/balajiakash6">
+→ EXPLORE PROJECT
+</a>
 
 </td>
 
@@ -126,17 +173,17 @@ An ML-based approach to matching lost & found items by understanding description
 
 <div align="center">
 
-## `TECH STACK`
+## `04 / THE TOOLBOX`
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,react,nodejs,spring,mysql,firebase,pytorch,tensorflow,aws,docker,git,github&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,react,nodejs,spring,mysql,firebase,aws,docker,git,github,pytorch,tensorflow&perline=8" />
 
 <br><br>
 
-`PYTHON` · `JAVA` · `C++` · `JAVASCRIPT`
-`REACT` · `NODE.JS` · `SPRING BOOT`
-`PYTORCH` · `TENSORFLOW` · `MYSQL` · `AWS` · `DOCKER`
+`Python` · `Java` · `C++` · `JavaScript` · `React` · `Spring Boot`
+
+`PyTorch` · `TensorFlow` · `MySQL` · `AWS` · `Docker` · `Git`
 
 </div>
 
@@ -144,70 +191,106 @@ An ML-based approach to matching lost & found items by understanding description
 
 <div align="center">
 
-## `PLAYER PROFILE`
+## `05 / BUILD LOG`
+
+</div>
+
+```text
+2026 ──────────────────────────────────────────────────
+
+        LOSTLINK
+        └── semantic matching + intelligent retrieval
+
+        METROMIND
+        └── intelligent metro scheduling
+
+        DSA
+        └── graphs · algorithms · problem solving
+
+        MUSIC
+        └── synth programming · sound design · production
+
+───────────────────────────────────────────────────────
+
+        NEXT → build something worth remembering
+```
+
+---
+
+<div align="center">
+
+## `06 / TWO WORLDS. ONE BUILDER.`
 
 <br>
 
 <table>
 <tr>
+<td align="center" width="50%">
 
-<td align="center" width="25%">
-
-### 💻
-
-**CLASS**
-
-Software Engineer
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**SPECIALTY**
+### 💻 SOFTWARE
 
 AI / ML
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**GRIND**
-
+Backend Engineering
 DSA
+Systems
+Problem Solving
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
-### 🎧
+### 🎧 MUSIC
 
-**SIDE QUEST**
-
-Music
+Music Production
+Synth Programming
+Sound Design
+Arrangement
+Creative Experimentation
 
 </td>
-
 </tr>
 </table>
 
+<br>
+
+> **By day I engineer systems.**
+> **By night I engineer sound.**
+
 </div>
 
 ---
 
 <div align="center">
 
-## `ACHIEVEMENTS`
+## `07 / TERMINAL`
 
 <br>
 
-<img src="https://img.shields.io/badge/PROJECTS-BUILT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/HACKATHONS-EXPLORED-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/AI%2FML-EXPLORING-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/DSA-GRINDING-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  $ whoami                                        │
+│                                                  │
+│  balaji_akash                                    │
+│                                                  │
+│  $ interests                                     │
+│                                                  │
+│  [ AI ] [ SYSTEMS ] [ DSA ] [ MUSIC ]            │
+│                                                  │
+│  $ currently_building                            │
+│                                                  │
+│  LostLink                                        │
+│                                                  │
+│  $ philosophy                                    │
+│                                                  │
+│  Build → Break → Learn → Rebuild                 │
+│                                                  │
+│  $ next                                           │
+│                                                  │
+│  ████████████████████░░░░░  ALWAYS BUILDING      │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -215,19 +298,17 @@ Music
 
 <div align="center">
 
-## `PROBLEM SOLVING`
+## `08 / PROBLEM SOLVING`
 
 <br>
 
 <a href="https://leetcode.com/balajiakash67">
-
-<img src="https://img.shields.io/badge/LEETCODE-BALAJIAKASH67-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-
+<img src="https://leetcard.jacoblin.cool/balajiakash67?theme=dark&font=baloo&ext=heatmap" width="500"/>
 </a>
 
 <br><br>
 
-`DATA STRUCTURES` · `ALGORITHMS` · `BFS` · `DFS`
+`DSA` · `Algorithms` · `Problem Solving`
 
 </div>
 
@@ -235,112 +316,36 @@ Music
 
 <div align="center">
 
-## `EDUCATION`
-
-**B.Tech — Computer Science Engineering**
-SRM Institute of Science and Technology
-
-<br>
-
-**Data Science & AI**
-IIT Guwahati · Online Programme
-
-</div>
-
----
-
-<div align="center">
-
-## `SIDE QUEST`
-
-### 🎧 MUSIC PRODUCTION
-
-**Synth Programming · Sound Design · Arrangement · Production**
-
-<br>
-
-`SOFTWARE × SOUND`
-
-</div>
-
----
-
-<div align="center">
-
-## `STATUS`
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-**CURRENT**
-
-<br>
-
-`BUILDING`
-
-</td>
-
-<td align="center">
-
-**NEXT**
-
-<br>
-
-`LEVEL UP`
-
-</td>
-
-<td align="center">
-
-**MAIN QUEST**
-
-<br>
-
-`ENGINEER`
-
-</td>
-
-<td align="center">
-
-**SIDE QUEST**
-
-<br>
-
-`CREATE`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### `GAME STATUS : ONLINE`
+## `09 / LET'S BUILD`
 
 <br>
 
 <a href="https://github.com/balajiakash6">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
 <a href="mailto:balajiakash06@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
-<br><br>
+<a href="https://drive.google.com/file/d/1S3YkwX2mDXAp6Gmqa-Lwkye0rCOmaQKp/view?usp=sharing">
+<img src="https://img.shields.io/badge/RESUME-0F172A?style=for-the-badge&logo=googledrive&logoColor=38BDF8" />
+</a>
 
-<sub>Still building.</sub>
+<a href="https://instagram.com/bxlxji_6">
+<img src="https://img.shields.io/badge/INSTAGRAM-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
 
-<br><br>
+<br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient" width="100%"/>
+### *Build → Break → Learn → Rebuild.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&animation=fadeIn" width="100%"/>
 
 </div>
