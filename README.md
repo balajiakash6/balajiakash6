@@ -1,62 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BALAJI%20AKASH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20MUSIC&descAlignY=62&descSize=18&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=BALAJI%20AKASH&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20MUSIC&descAlignY=62&descSize=16&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Player+1+has+entered+the+repo.;Currently+grinding+DSA+%2B+AI%2FML.;Building+projects+%E2%80%94+not+just+tutorials.;Also+making+synths+do+questionable+things." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+AI%2FML;Building%2C+breaking%2C+learning%2C+rebuilding.;Currently+working+on+LostLink.;Code+and+music+are+my+two+playgrounds." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=PROFILE+VISITORS&style=for-the-badge&color=0F172A" />
+<a href="https://github.com/balajiakash6">
+<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=PROFILE+VIEWS&style=flat-square&color=1E293B" />
+</a>
+
+  
+
+<a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🎮 PLAYER PROFILE
-
-</div>
-
 <table>
 <tr>
-<td width="60%">
+<td width="62%" valign="top">
 
-```text
-╭────────────────────────────────────╮
-│                                    │
-│   BALAJI AKASH                     │
-│                                    │
-│   CLASS       SOFTWARE ENGINEER    │
-│   LEVEL       20                   │
-│   MAIN        AI / SOFTWARE        │
-│   SIDE QUEST  MUSIC                │
-│                                    │
-│   HP          ██████████  100%     │
-│   XP          ████████░░   80%     │
-│                                    │
-╰────────────────────────────────────╯
-```
+## `ABOUT`
+
+I'm **Balaji Akash**, a Computer Science Engineering student interested in building software that solves actual problems.
+
+My current focus is around **AI/ML, software engineering, DSA and backend development**.
+
+I enjoy working across the stack — from figuring out the problem to writing the code, testing the idea and eventually making something people can use.
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" valign="top">
 
-### 🎯 CURRENT MOOD
+### `PROFILE`
 
-```text
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-LEARN
-  ↓
-REPEAT
-```
+**ROLE**
+Computer Science Engineer
+
+**FOCUS**
+AI / ML · Software
+
+**CURRENT**
+LostLink
+
+**SIDE PROJECT**
+Music Production
+
+**BASED AROUND**
+Code + Creativity
 
 </td>
 </tr>
@@ -66,93 +63,115 @@ REPEAT
 
 <div align="center">
 
-# 🗺️ QUEST BOARD
+## `CURRENT MISSION`
+
+### **LOSTLINK**
+
+**Semantic Matching & Intelligent Retrieval**
 
 </div>
 
-### 🟢 ACTIVE QUEST — `LOSTLINK`
+<p align="center">
+LostLink explores how machine learning can understand the meaning behind lost-and-found descriptions instead of relying only on exact keyword matches.
+</p>
 
-**Semantic matching for lost & found.**
+<div align="center">
 
-The idea is simple: instead of looking for exact words, make the system understand when two descriptions are talking about the **same thing**.
+`MACHINE LEARNING`   `NLP`   `SEMANTIC SEARCH`   `INFORMATION RETRIEVAL`
 
-**Objectives**
+**STATUS · IN DEVELOPMENT**
 
-* 🧠 Machine Learning
-* 🔎 Semantic Matching
-* 📝 NLP
-* ⚡ Intelligent Retrieval
-
-`STATUS: IN PROGRESS`
+</div>
 
 ---
 
-### 🟡 SIDE QUEST — `DSA`
+## `SELECTED WORK`
 
-Currently fighting my way through:
+<table>
+<tr>
 
-`Arrays → Trees → Graphs → BFS / DFS → Whatever comes next`
+<td width="50%" valign="top">
 
-**Objective:** become significantly better at problem solving.
+### 01 / LostLink
 
-`STATUS: GRINDING`
+**ML · Semantic Retrieval**
 
----
+An intelligent approach to matching lost and found items based on semantic similarity.
 
-### 🔵 SECRET QUEST — `MUSIC`
+`Python` `ML` `NLP`
 
-Making synths, sounds and occasionally something that actually sounds good.
+</td>
 
-`STATUS: NEVER REALLY FINISHED`
+<td width="50%" valign="top">
 
----
+### 02 / MetroMind
 
-# ⚔️ QUEST LOG
+**AI · Automation · Systems**
 
-| Quest                | Description                      |    Status   |
-| :------------------- | :------------------------------- | :---------: |
-| 🔎 **LostLink**      | ML-based semantic retrieval      |  🟢 Active  |
-| 🚇 **MetroMind**     | Intelligent metro scheduling     | 🟢 Building |
-| 🩸 **Blood Bank**    | Java + MySQL management system   |  ✅ Complete |
-| 🎤 **Speakers Hive** | Speaker & event booking platform |  ✅ Complete |
+A project exploring intelligent approaches to metro scheduling and operational planning.
+
+`AI` `Automation` `Systems`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 03 / Blood Bank Management
+
+**Java · MySQL**
+
+A desktop management system designed around blood-bank operations and data management.
+
+`Java` `Swing` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 / Speakers Hive
+
+**Backend · Web**
+
+A platform for managing speakers, events and bookings.
+
+`Spring Boot` `Thymeleaf` `H2`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# 🌳 SKILL TREE
+## `TECH STACK`
 
-</div>
-
-```text
-                              BALAJI
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-        💻 SOFTWARE           🤖 AI/ML          🎧 MUSIC
-             │                  │                  │
-       ┌─────┼─────┐       ┌────┼────┐       ┌────┼────┐
-       │     │     │       │    │    │       │    │    │
-      Java  C++   JS     Python NLP  ML    Synth  Sound Production
-       │     │     │       │    │    │       │    │    │
-       ▼     ▼     ▼       ▼    ▼    ▼       ▼    ▼    ▼
-     React Spring Node   PyTorch TF  IR    Design Mixing Arrangement
-```
-
----
-
-# 🎒 INVENTORY
-
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,spring,mysql,pytorch,tensorflow,aws,docker,git,github&perline=7" />
 
 <br><br>
 
-`Python` `Java` `C++` `JavaScript`
-`React` `Node.js` `Spring Boot`
-`MySQL` `PyTorch` `TensorFlow` `AWS` `Docker`
+**LANGUAGES**
+
+`Python` · `Java` · `C++` · `JavaScript`
+
+**DEVELOPMENT**
+
+`React` · `Node.js` · `Spring Boot`
+
+**AI / DATA**
+
+`PyTorch` · `TensorFlow` · `NLP` · `Machine Learning`
+
+**INFRASTRUCTURE**
+
+`MySQL` · `Firebase` · `AWS` · `Docker` · `Git`
 
 </div>
 
@@ -160,53 +179,96 @@ Making synths, sounds and occasionally something that actually sounds good.
 
 <div align="center">
 
-# 🏆 ACHIEVEMENTS
+## `PROGRESSION`
 
 </div>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🧠
+### 01
 
-**PROBLEM SOLVER**
+**BUILD**
+
+Turn an idea into something real.
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**BREAK**
+
+Find out what doesn't work.
+
+</td>
+
+<td align="center" width="25%">
+
+### 03
+
+**LEARN**
+
+Understand why it failed.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**REBUILD**
+
+Come back better.
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<sub>Current status: somewhere between 02 and 04.</sub>
+</p>
+
+---
+
+## `CURRENT INTERESTS`
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### AI / ML
+
+Machine Learning
+NLP
+Semantic Search
+Information Retrieval
+
+</td>
+
+<td width="33%" align="center">
+
+### SOFTWARE
 
 DSA
-Algorithms
+Backend Systems
+Application Development
+Problem Solving
 
 </td>
 
-<td align="center" width="25%">
+<td width="33%" align="center">
 
-### 🤖
+### CREATIVE
 
-**AI EXPLORER**
-
-ML
-NLP
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**BUILDER**
-
-Projects
-Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎧
-
-**AUDIO NERD**
-
-Synths
-Production
+Music Production
+Synth Programming
+Sound Design
+Arrangement
 
 </td>
 </tr>
@@ -214,39 +276,16 @@ Production
 
 ---
 
-# 💀 BOSS FIGHTS
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  BOSS #01     ──  DSA                               │
-│  DIFFICULTY   ──  █████████░                         │
-│  STATUS       ──  FIGHTING                           │
-│                                                      │
-│  BOSS #02     ──  MACHINE LEARNING                  │
-│  DIFFICULTY   ──  ████████░░                         │
-│  STATUS       ──  LEARNING                           │
-│                                                      │
-│  BOSS #03     ──  BUILDING SOMETHING PEOPLE USE     │
-│  DIFFICULTY   ──  ██████████                         │
-│  STATUS       ──  NEXT                               │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
 <div align="center">
 
-# 🎧 DLC: MUSIC
-
-I also do **music production as a side hustle**.
-
-Synth programming · Sound design · Arrangement · Production
+## `ACHIEVEMENTS`
 
 <br>
 
-**Different medium. Same obsession with making things.**
+<img src="https://img.shields.io/badge/BUILDING_PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/LEARNING_AI%2FML-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/GRINDING_DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/MAKING_MUSIC-0F172A?style=for-the-badge&logo=applemusic&logoColor=38BDF8" />
 
 </div>
 
@@ -254,19 +293,65 @@ Synth programming · Sound design · Arrangement · Production
 
 <div align="center">
 
-# 💾 SAVE POINT
+## `THE OTHER SIDE`
 
-```text
-PLAYER        Balaji Akash
-CURRENT AREA  AI / Software
-MAIN QUEST    Build better things
-SIDE QUEST    Music
-NEXT BOSS     Whatever I haven't figured out yet
-```
+### SOFTWARE × SOUND
 
 <br>
 
-### `GAME STATUS: STILL PLAYING.`
+I also work on **music production as a side hustle** — mainly synth programming, sound design, arrangement and production.
+
+<br>
+
+> **Same curiosity. Different tools.**
+
+</div>
+
+---
+
+<div align="center">
+
+## `PLAYER STATUS`
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+**CURRENT QUEST**
+
+<br>
+
+`BUILD SOMETHING USEFUL`
+
+</td>
+
+<td align="center">
+
+**CURRENT BOSS**
+
+<br>
+
+`DSA + AI/ML`
+
+</td>
+
+<td align="center">
+
+**SIDE QUEST**
+
+<br>
+
+`MUSIC PRODUCTION`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### `STATUS: ONLINE`
 
 <br>
 
@@ -286,12 +371,16 @@ NEXT BOSS     Whatever I haven't figured out yet
 <img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/balajiakash67">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827"/>
+</a>
+
 <br><br>
 
-<sub>Made with code, curiosity & a suspicious amount of debugging.</sub>
+<sub>© Balaji Akash · Still building.</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient" width="100%"/>
 
 </div>
