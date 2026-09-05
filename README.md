@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BALAJI%20AKASH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20%C3%97%20INTELLIGENCE%20%C3%97%20SOUND&descAlignY=62&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BALAJI%20AKASH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20%C3%97%20CREATIVITY%20%C3%97%20MUSIC&descAlignY=62&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
