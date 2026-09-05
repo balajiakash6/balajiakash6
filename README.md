@@ -1,366 +1,298 @@
 <div align="center">
 
-# 👋 Hey, I'm **Balaji Akash**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Balaji%20Akash&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Engineering%20Ideas%20%7C%20Exploring%20AI%20%7C%20Building%20What's%20Next&descAlignY=58&descSize=18" width="100%"/>
 
-### `Computer Science Engineer` · `AI/ML Enthusiast` · `Software Developer` · `Music Producer`
+<br>
 
-<p>
-  <a href="https://github.com/balajiakash6">
-    <img src="https://komarev.com/ghpvc/?username=balajiakash6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/balajiakash6?tab=followers">
-    <img src="https://img.shields.io/github/followers/balajiakash6?label=Followers&style=flat" alt="Followers"/>
-  </a>
-  <a href="https://github.com/balajiakash6">
-    <img src="https://img.shields.io/github/stars/balajiakash6?label=Stars&style=flat" alt="Stars"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Software+Developer;Problem+Solver;Music+Producer;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
-### **Engineering ideas. Exploring AI. Building what's next.**
+<br><br>
 
-<p>
-  <a href="https://github.com/balajiakash6">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:balajiakash06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/balajiakash67">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<a href="https://github.com/balajiakash6">
+<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/balajiakash6?tab=followers">
+<img src="https://img.shields.io/github/followers/balajiakash6?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
+</a>
+
+<a href="https://github.com/balajiakash6">
+<img src="https://img.shields.io/github/stars/balajiakash6?label=STARS&style=for-the-badge&color=7C3AED" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning and Software Engineering**.
+## 🧠 WHO AM I?
 
-I enjoy turning ideas into practical systems — from ML-powered applications and intelligent retrieval systems to backend platforms and automation tools.
+</div>
 
-Currently, I'm focused on strengthening my foundations in **DSA, AI/ML, system development and scalable software engineering** while building projects that solve real problems.
+I'm a **Computer Science Engineering student** focused on building intelligent and practical software.
 
-When I'm not coding, I'm working on **music production, sound design and synth programming** 🎧
-
----
-
-## 🚀 What I'm Currently Working On
-
-<table>
-<tr>
-<td width="60%">
-
-### 🔎 LostLink
-
-**ML-Based Semantic Matching & Intelligent Retrieval System**
-
-LostLink is an ML-focused system designed to intelligently match lost and found items using **semantic similarity and intelligent information retrieval**, rather than relying only on traditional keyword matching.
-
-**Focus Areas**
-
-* 🧠 Machine Learning
-* 🔍 Semantic Matching
-* 📚 Information Retrieval
-* 🐍 Python
-* 📊 Data Processing
-* 🤖 Intelligent Search
-
-</td>
-
-<td width="40%">
-
-### 🎯 Currently Exploring
+My interests sit at the intersection of:
 
 ```text
-Artificial Intelligence
-Machine Learning
-Data Structures & Algorithms
-Backend Engineering
-System Design
-Cloud Technologies
+AI / ML  ───────────────┐
+                        │
+Software Engineering ───┼──→  Intelligent Products
+                        │
+Problem Solving ────────┤
+                        │
+Creativity & Music ─────┘
 ```
 
-</td>
-</tr>
-</table>
+I enjoy taking an idea from **concept → code → working product**.
+
+Currently exploring **Machine Learning, semantic retrieval, DSA, backend engineering, system design and cloud technologies.**
+
+Outside code, I work on **music production, sound design and synth programming** 🎧
 
 ---
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,swift&perline=6" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
-</p>
-
-`Pandas` · `NumPy` · `Machine Learning` · `NLP` · `Semantic Search`
-
-### 🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,spring&perline=6" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,aws&perline=6" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio&perline=6" />
-</p>
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/balajiakash6">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balajiakash6&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&cache_seconds=1800" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajiakash6&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=1800" />
-
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
+## 🚀 CURRENTLY BUILDING
 
 <a href="https://github.com/balajiakash6">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balajiakash6&hide_border=true&theme=transparent" alt="Balaji Akash GitHub Streak" />
+<img src="https://img.shields.io/badge/🔎%20LOSTLINK-ML%20%7C%20Semantic%20Matching%20%7C%20Intelligent%20Retrieval-2563EB?style=for-the-badge" />
 
 </a>
 
-</div>
+### ML-Based Semantic Matching & Intelligent Retrieval System
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/balajiakash6">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balajiakash6&theme=github-compact&hide_border=true&area=true&custom_title=Balaji%20Akash%27s%20Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</a>
-
-</div>
-
----
-
-# 💻 Commit & Contribution Statistics
-
-<div align="center">
-
-<a href="https://github.com/balajiakash6">
-
-<img src="https://github-readme-stats.vercel.app/api?username=balajiakash6&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800" alt="GitHub Commit Statistics" />
-
-</a>
-
-</div>
-
----
-
-# ⭐ Featured Projects
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🔎 LostLink
+**The idea**
 
-**ML-Based Semantic Matching & Intelligent Retrieval**
-
-Machine-learning system for intelligently matching lost and found items using semantic similarity.
-
-`Python` `ML` `NLP` `Semantic Search`
+LostLink focuses on using **machine learning and semantic similarity** to intelligently connect lost and found item descriptions.
 
 </td>
+<td>
 
-<td width="50%">
+**Core**
 
-### 🚇 MetroMind
-
-**Metro Scheduling Automation**
-
-A scheduling-focused system designed to improve metro operations through intelligent automation.
-
-`AI` `Automation` `Scheduling`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🩸 Blood Bank Management
-
-**Blood Bank Management System**
-
-Desktop management system with a Java frontend and MySQL backend for handling blood-bank operations.
-
-`Java` `MySQL` `Swing`
-
-</td>
-
-<td width="50%">
-
-### 🎤 Speakers Hive
-
-**Speaker & Event Management Platform**
-
-A Spring Boot-based platform for managing speakers, events and role-based bookings.
-
-`Spring Boot` `Thymeleaf` `H2`
+`Machine Learning`
+`NLP`
+`Semantic Search`
+`Information Retrieval`
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-# 📌 Featured Repositories
+---
 
 <div align="center">
 
-<a href="https://github.com/balajiakash6/LostLink">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balajiakash6&repo=LostLink&theme=transparent&hide_border=true" />
-</a>
+## ⚡ TECHNOLOGIES I WORK WITH
 
-<a href="https://github.com/balajiakash6/MetroMind">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=balajiakash6&repo=MetroMind&theme=transparent&hide_border=true" />
-</a>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,swift,react,nodejs,spring,mysql,firebase,aws,docker,git,github,pytorch,tensorflow&perline=9" />
+
+<br><br>
+
+`Python` · `Java` · `C++` · `JavaScript` · `React` · `Spring Boot`
+`PyTorch` · `TensorFlow` · `Pandas` · `MySQL` · `AWS` · `Docker`
 
 </div>
 
 ---
 
-# 💻 Problem Solving
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<br>
+
+<a href="https://github.com/balajiakash6">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=balajiakash6&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajiakash6&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balajiakash6&hide_border=true&theme=transparent" />
+
+</div>
+
+---
 
 <div align="center">
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balajiakash6&bg_color=00000000&color=2563EB&line=06B6D4&point=7C3AED&area=true&hide_border=true&custom_title=Balaji%20Akash%27s%20Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ FEATURED PROJECTS
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🔎 LostLink</h3>
+
+<b>Semantic Matching & Intelligent Retrieval</b>
+
+<br><br>
+
+An ML-driven approach to matching lost and found items using semantic similarity.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-412991?style=flat-square" />
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚇 MetroMind</h3>
+
+<b>Intelligent Metro Scheduling</b>
+
+<br><br>
+
+A scheduling automation concept designed to improve metro operations through intelligent systems.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Systems-2563EB?style=flat-square" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🩸 Blood Bank Management</h3>
+
+<b>Java + MySQL Management System</b>
+
+<br><br>
+
+Desktop application designed for managing blood-bank operations.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎤 Speakers Hive</h3>
+
+<b>Event & Speaker Management</b>
+
+<br><br>
+
+Backend-driven platform for managing speakers, events and bookings.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 💻 PROBLEM SOLVING
+
+<br>
 
 <a href="https://leetcode.com/balajiakash67">
 
-<img src="https://leetcard.jacoblin.cool/balajiakash67?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/balajiakash67?theme=dark&font=baloo&ext=heatmap" />
 
 </a>
 
-</div>
+<br><br>
 
----
-
-# 📊 GitHub Profile Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balajiakash6&theme=github_dark" alt="GitHub Profile Details" />
+### `DSA` · `Algorithms` · `Problem Solving`
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
-
 <div align="center">
 
-<a href="https://github.com/balajiakash6">
+# 🐍 CONTRIBUTION JOURNEY
 
-<img src="https://github-profile-trophy.vercel.app/?username=balajiakash6&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-# 🎵 Beyond Code
-
-### Music Production
-
-Technology isn't the only thing I build.
-
-I also work on **music production, sound design, synth programming and arrangement** as a side hustle.
-
-I enjoy the intersection between **technical precision and creative expression** — whether that's designing an ML system or shaping a synth sequence.
-
-🎛️ `Music Production` · 🎹 `Synth Programming` · 🎚️ `Sound Design`
-
----
-
-# 📚 Currently Learning
-
 <div align="center">
 
-| Area        | Focus                                                  |
-| ----------- | ------------------------------------------------------ |
-| 🧠 AI / ML  | Machine Learning · NLP · Intelligent Systems           |
-| 💻 DSA      | Algorithms · Problem Solving · Competitive Programming |
-| ⚙️ Software | Backend Engineering · System Design                    |
-| ☁️ Cloud    | AWS · Deployment · Scalable Systems                    |
-| 🔐 Core CS  | Networks · Operating Systems · Computer Architecture   |
+# 🎧 BEYOND CODE
+
+### **Music Production • Sound Design • Synth Programming**
+
+<br>
+
+<img src="https://img.shields.io/badge/Music%20Production-111827?style=for-the-badge&logo=applemusic&logoColor=white" />
+<img src="https://img.shields.io/badge/Sound%20Design-111827?style=for-the-badge&logo=audacity&logoColor=white" />
+<img src="https://img.shields.io/badge/Synth%20Programming-111827?style=for-the-badge&logo=musicbrainz&logoColor=white" />
+
+<br><br>
+
+> **Where engineering meets creativity.**
+
+I also work on music production as a side hustle —
+from **synth programming and sound design to arrangement and production.**
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] Build production-grade AI/ML projects
-* [ ] Strengthen DSA & problem solving
-* [ ] Contribute to open source
-* [ ] Build and deploy scalable applications
-* [ ] Explore advanced AI/ML research
-* [ ] Participate in major hackathons
-* [ ] Grow as a software engineer
-* [ ] Keep creating music 🎧
-
----
-
-# 🤝 Let's Connect
-
 <div align="center">
 
-### Interested in technology, AI, software or music?
-
-I'm always open to interesting ideas, collaborations and conversations.
+# 🌐 CONNECT WITH ME
 
 <br>
 
@@ -384,16 +316,12 @@ I'm always open to interesting ideas, collaborations and conversations.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### ⚡ **Build. Break. Learn. Repeat.**
+### 💬 *Let's build something remarkable.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
