@@ -1,351 +1,84 @@
 <div align="center">
+  
+  <h1>Balaji Akash S</h1>
+  <h3>Engineering Ideas. Exploring AI. Building What’s Next.</h3>
+  
+  <p>
+    <b>B.Tech Computer Science Engineering @ SRMIST</b><br>
+    Backend Developer • AI Enthusiast • Music Producer
+  </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BALAJI%20AKASH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20%C3%97%20INTELLIGENCE%20%C3%97%20SOUND&descAlignY=62&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
+  <p>
+    <a href="https://linkedin.com/in/balaji akash" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:balajiakash06@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://drive.google.com/file/d/1S3YkwX2mDXAp6Gmqa-Lwkye0rCOmaQKp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%234285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+    <a href="https://twitter.com/balajiakash7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  </p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+things+that+shouldn't+exist+yet.;Software+%C3%97+AI+%C3%97+Creativity;Turning+ideas+into+working+systems.;Engineering+by+day.+Engineering+sound+by+night." />
-
-<br><br>
-
-<a href="https://github.com/balajiakash6">
-<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=VISITORS&style=for-the-badge&color=0F172A" />
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=balajiakash6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-<div align="center">
+## ⚡ About Me
 
-## `01 / CURRENTLY IN THE LAB`
+I'm a Computer Science student passionate about building intelligent, highly-optimized systems. Whether I'm working with complex data structures in Java and C, developing web-based emergency traffic prioritization systems, or currently building out **LostLink**, I like solving real-world problems with clean code. 
 
-</div>
+When I step away from the IDE, I flex my creative muscles—I'm an active YouTube content creator doing digital skits and I produce music in Logic Pro as a side hustle. 
 
-<table>
-<tr>
-<td width="70%">
-
-### 🔎 LOSTLINK
-
-**Semantic intelligence for lost & found.**
-
-What if a lost-and-found system didn't just search for
-keywords — but actually **understood what people meant?**
-
-Currently exploring:
-
-`NLP` · `Semantic Matching` · `Machine Learning` · `Information Retrieval`
-
-</td>
-
-<td width="30%" align="center">
-
-```text
-STATUS
-
-████████████░░░
-
-BUILDING
-```
-
-</td>
-</tr>
-</table>
+- 🔭 Currently working on: **LostLink**
+- 🌱 Exploring: Advanced Spring Boot architectures, AI/ML integrations, and optimized routing algorithms.
+- 💬 Ask me about: **Java, Python, backend system design, or audio production.**
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack & Tools
 
-## `02 / THINGS I'M OBSESSED WITH`
+**Languages:**<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift,js,html,css" /></a>
 
-</div>
+**Frameworks & Libraries:**<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=spring,react,bootstrap,nodejs,tensorflow,pytorch" /></a>
 
-```text
-01 ── turning messy problems into elegant systems
+**Databases & Cloud:**<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,firebase,aws,docker" /></a>
 
-02 ── making software feel intelligent
-
-03 ── understanding what happens underneath the abstraction
-
-04 ── building things instead of just talking about them
-
-05 ── creating sounds from absolutely nothing
-```
+**Tools & Creative:**<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,ps,unreal" /></a>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-## `03 / SELECTED BUILDS`
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[LostLink](#)** | *(Brief 1-sentence description of what LostLink does and why it's cool).* | `Java` `Spring Boot` |
+| **[GreenRoute](#)** | A lightweight, web-based traffic signal priority system that creates temporary green corridors for emergency vehicles. | `HTML` `Thymeleaf` `Java` |
 
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔎 LostLink
-
-**ML · NLP · Semantic Retrieval**
-
-An ML-based approach to intelligently matching lost and found item descriptions.
-
-`Python` `Machine Learning` `NLP`
-
-<br>
-
-<a href="https://github.com/balajiakash6">
-→ EXPLORE PROJECT
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚇 MetroMind
-
-**AI · Automation · Systems**
-
-An intelligent scheduling concept designed around improving metro operations.
-
-`AI` `Automation` `Systems`
-
-<br>
-
-<a href="https://github.com/balajiakash6">
-→ EXPLORE PROJECT
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🩸 Blood Bank Management
-
-**Java · MySQL · Desktop**
-
-A management system built for handling blood-bank operations.
-
-`Java` `MySQL` `Swing`
-
-<br>
-
-<a href="https://github.com/balajiakash6">
-→ EXPLORE PROJECT
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎤 Speakers Hive
-
-**Spring Boot · Backend · Web**
-
-A platform for managing speakers, events and bookings.
-
-`Java` `Spring Boot` `Thymeleaf`
-
-<br>
-
-<a href="https://github.com/balajiakash6">
-→ EXPLORE PROJECT
-</a>
-
-</td>
-
-</tr>
-</table>
+*(Note: Replace the `#` with your actual repository links!)*
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-
-## `04 / THE TOOLBOX`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,react,nodejs,spring,mysql,firebase,aws,docker,git,github,pytorch,tensorflow&perline=8" />
-
-<br><br>
-
-`Python` · `Java` · `C++` · `JavaScript` · `React` · `Spring Boot`
-
-`PyTorch` · `TensorFlow` · `MySQL` · `AWS` · `Docker` · `Git`
-
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=balajiakash6&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajiakash6&theme=transparent&hide_border=true&title_color=0e75b6&text_color=a6a6a6&icon_color=0e75b6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balajiakash6&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=a6a6a6" alt="Top Languages" />
 </div>
 
----
+<br>
 
 <div align="center">
-
-## `05 / BUILD LOG`
-
-</div>
-
-```text
-2026 ──────────────────────────────────────────────────
-
-        LOSTLINK
-        └── semantic matching + intelligent retrieval
-
-        METROMIND
-        └── intelligent metro scheduling
-
-        DSA
-        └── graphs · algorithms · problem solving
-
-        MUSIC
-        └── synth programming · sound design · production
-
-───────────────────────────────────────────────────────
-
-        NEXT → build something worth remembering
-```
-
----
-
-<div align="center">
-
-## `06 / TWO WORLDS. ONE BUILDER.`
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 SOFTWARE
-
-AI / ML
-Backend Engineering
-DSA
-Systems
-Problem Solving
-
-</td>
-
-<td align="center" width="50%">
-
-### 🎧 MUSIC
-
-Music Production
-Synth Programming
-Sound Design
-Arrangement
-Creative Experimentation
-
-</td>
-</tr>
-</table>
-
-<br>
-
-> **By day I engineer systems.**
-> **By night I engineer sound.**
-
-</div>
-
----
-
-<div align="center">
-
-## `07 / TERMINAL`
-
-<br>
-
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  $ whoami                                        │
-│                                                  │
-│  balaji_akash                                    │
-│                                                  │
-│  $ interests                                     │
-│                                                  │
-│  [ AI ] [ SYSTEMS ] [ DSA ] [ MUSIC ]            │
-│                                                  │
-│  $ currently_building                            │
-│                                                  │
-│  LostLink                                        │
-│                                                  │
-│  $ philosophy                                    │
-│                                                  │
-│  Build → Break → Learn → Rebuild                 │
-│                                                  │
-│  $ next                                           │
-│                                                  │
-│  ████████████████████░░░░░  ALWAYS BUILDING      │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `08 / PROBLEM SOLVING`
-
-<br>
-
-<a href="https://leetcode.com/balajiakash67">
-<img src="https://leetcard.jacoblin.cool/balajiakash67?theme=dark&font=baloo&ext=heatmap" width="500"/>
-</a>
-
-<br><br>
-
-`DSA` · `Algorithms` · `Problem Solving`
-
-</div>
-
----
-
-<div align="center">
-
-## `09 / LET'S BUILD`
-
-<br>
-
-<a href="https://github.com/balajiakash6">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-</a>
-
-<a href="mailto:balajiakash06@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://drive.google.com/file/d/1S3YkwX2mDXAp6Gmqa-Lwkye0rCOmaQKp/view?usp=sharing">
-<img src="https://img.shields.io/badge/RESUME-0F172A?style=for-the-badge&logo=googledrive&logoColor=38BDF8" />
-</a>
-
-<a href="https://instagram.com/bxlxji_6">
-<img src="https://img.shields.io/badge/INSTAGRAM-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-
-<br><br><br>
-
-### *Build → Break → Learn → Rebuild.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&animation=fadeIn" width="100%"/>
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajiakash6&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
 </div>
