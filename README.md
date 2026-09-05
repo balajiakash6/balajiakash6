@@ -1,169 +1,294 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Balaji%20Akash&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=CS%20%E2%80%A2%20AI%20%E2%80%A2%20MUSIC&descAlignY=62&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BALAJI%20AKASH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20MUSIC&descAlignY=62&descSize=18&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=620&lines=writing+code+%7C+breaking+code+%7C+fixing+code;currently+figuring+out+AI%2FML;occasionally+making+noise+with+synths" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Player+1+has+entered+the+repo.;Currently+grinding+DSA+%2B+AI%2FML.;Building+projects+%E2%80%94+not+just+tutorials.;Also+making+synths+do+questionable+things." />
 
 <br><br>
 
-<a href="https://github.com/balajiakash6">
-<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=PROFILE+VIEWS&style=flat-square&color=0F172A" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=balajiakash6&label=PROFILE+VISITORS&style=for-the-badge&color=0F172A" />
 
 </div>
 
 ---
 
-## Hey 👋
+<div align="center">
 
-I'm **Balaji**, a Computer Science student who likes building things and figuring out how they work.
+# 🎮 PLAYER PROFILE
 
-Most of my time goes into **software, AI/ML and DSA**. I'm particularly interested in taking problems that are a little messy and seeing if I can make them behave.
+</div>
 
-A few things I'm working on right now:
-
-* 🔎 **LostLink** — semantic matching for lost & found items
-* 🚇 **MetroMind** — exploring intelligent metro scheduling
-* 🧠 **DSA** — currently spending an unreasonable amount of time on graphs
-* 🎧 **Music** — producing, programming synths and making sounds after everything else is done
-
----
-
-## 🎮 Current Loadout
-
-|                      |                                          |
-| -------------------- | ---------------------------------------- |
-| 💻 **Main**          | Python · Java · C++ · JavaScript         |
-| 🤖 **Exploring**     | ML · NLP · PyTorch · TensorFlow          |
-| 🌐 **Building with** | React · Node.js · Spring Boot            |
-| 🗄️ **Working with** | MySQL · Firebase                         |
-| ☁️ **Getting into**  | AWS · Docker                             |
-| 🎧 **Outside code**  | Music production · Synths · Sound design |
-
----
-
-## 🧪 Stuff I've Built
-
-### 🔎 LostLink
-
-An ML-based approach to lost & found that tries to understand **what someone is describing**, rather than relying only on matching words.
-
-`Python` `ML` `NLP` `Semantic Search`
-
----
-
-### 🚇 MetroMind
-
-A project exploring how intelligent systems could help automate **metro scheduling and operations**.
-
-`AI` `Automation` `Systems`
-
----
-
-### 🩸 Blood Bank Management
-
-A desktop management system built with Java and MySQL.
-
-`Java` `Swing` `MySQL`
-
----
-
-### 🎤 Speakers Hive
-
-A web application for handling speakers, events and bookings.
-
-`Spring Boot` `Thymeleaf` `H2`
-
----
-
-## 🌳 Skill Tree
+<table>
+<tr>
+<td width="60%">
 
 ```text
-                BALAJI
-                  │
-        ┌─────────┼─────────┐
-        │         │         │
-      CODE       AI/ML     MUSIC
-        │         │         │
-     Java       Python    Production
-     C++        PyTorch   Synths
-     JS         NLP       Sound Design
-     React      TF        Arrangement
-     Spring
+╭────────────────────────────────────╮
+│                                    │
+│   BALAJI AKASH                     │
+│                                    │
+│   CLASS       SOFTWARE ENGINEER    │
+│   LEVEL       20                   │
+│   MAIN        AI / SOFTWARE        │
+│   SIDE QUEST  MUSIC                │
+│                                    │
+│   HP          ██████████  100%     │
+│   XP          ████████░░   80%     │
+│                                    │
+╰────────────────────────────────────╯
+```
+
+</td>
+
+<td width="40%" align="center">
+
+### 🎯 CURRENT MOOD
+
+```text
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+LEARN
+  ↓
+REPEAT
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🗺️ QUEST BOARD
+
+</div>
+
+### 🟢 ACTIVE QUEST — `LOSTLINK`
+
+**Semantic matching for lost & found.**
+
+The idea is simple: instead of looking for exact words, make the system understand when two descriptions are talking about the **same thing**.
+
+**Objectives**
+
+* 🧠 Machine Learning
+* 🔎 Semantic Matching
+* 📝 NLP
+* ⚡ Intelligent Retrieval
+
+`STATUS: IN PROGRESS`
+
+---
+
+### 🟡 SIDE QUEST — `DSA`
+
+Currently fighting my way through:
+
+`Arrays → Trees → Graphs → BFS / DFS → Whatever comes next`
+
+**Objective:** become significantly better at problem solving.
+
+`STATUS: GRINDING`
+
+---
+
+### 🔵 SECRET QUEST — `MUSIC`
+
+Making synths, sounds and occasionally something that actually sounds good.
+
+`STATUS: NEVER REALLY FINISHED`
+
+---
+
+# ⚔️ QUEST LOG
+
+| Quest                | Description                      |    Status   |
+| :------------------- | :------------------------------- | :---------: |
+| 🔎 **LostLink**      | ML-based semantic retrieval      |  🟢 Active  |
+| 🚇 **MetroMind**     | Intelligent metro scheduling     | 🟢 Building |
+| 🩸 **Blood Bank**    | Java + MySQL management system   |  ✅ Complete |
+| 🎤 **Speakers Hive** | Speaker & event booking platform |  ✅ Complete |
+
+---
+
+<div align="center">
+
+# 🌳 SKILL TREE
+
+</div>
+
+```text
+                              BALAJI
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+        💻 SOFTWARE           🤖 AI/ML          🎧 MUSIC
+             │                  │                  │
+       ┌─────┼─────┐       ┌────┼────┐       ┌────┼────┐
+       │     │     │       │    │    │       │    │    │
+      Java  C++   JS     Python NLP  ML    Synth  Sound Production
+       │     │     │       │    │    │       │    │    │
+       ▼     ▼     ▼       ▼    ▼    ▼       ▼    ▼    ▼
+     React Spring Node   PyTorch TF  IR    Design Mixing Arrangement
 ```
 
 ---
 
-## 🏁 Current Side Quest
+# 🎒 INVENTORY
 
-```text
-DSA ─────────────── ███████████████░░░
+<div align="center">
 
-AI / ML ─────────── ████████████░░░░░░
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,spring,mysql,pytorch,tensorflow,aws,docker,git,github&perline=7" />
 
-BUILDING ────────── ██████████████░░░░
+<br><br>
 
-MUSIC ───────────── █████████████████░
-```
+`Python` `Java` `C++` `JavaScript`
+`React` `Node.js` `Spring Boot`
+`MySQL` `PyTorch` `TensorFlow` `AWS` `Docker`
 
-**The bars are mostly vibes.**
-
----
-
-## 🎧 The Other Half
-
-I also do **music production as a side hustle**.
-
-Mostly synth programming, sound design, arrangement and production.
-
-It's a pretty different world from programming, which is probably why I like it.
-
-**Code deals with logic.
-Music lets me break it.**
+</div>
 
 ---
 
-## 🏆 Small Wins
+<div align="center">
+
+# 🏆 ACHIEVEMENTS
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**PROBLEM SOLVER**
+
+DSA
+Algorithms
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI EXPLORER**
+
+ML
+NLP
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️
+
+**BUILDER**
+
+Projects
+Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎧
+
+**AUDIO NERD**
+
+Synths
+Production
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💀 BOSS FIGHTS
 
 ```text
-✓ built projects outside the classroom
-
-✓ survived enough DSA problems to question my life choices
-
-✓ got into ML and actually started building with it
-
-✓ made music and software at the same time
-
-→ still figuring out what to build next
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  BOSS #01     ──  DSA                               │
+│  DIFFICULTY   ──  █████████░                         │
+│  STATUS       ──  FIGHTING                           │
+│                                                      │
+│  BOSS #02     ──  MACHINE LEARNING                  │
+│  DIFFICULTY   ──  ████████░░                         │
+│  STATUS       ──  LEARNING                           │
+│                                                      │
+│  BOSS #03     ──  BUILDING SOMETHING PEOPLE USE     │
+│  DIFFICULTY   ──  ██████████                         │
+│  STATUS       ──  NEXT                               │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 ---
 
 <div align="center">
 
-## If you're here, say hi.
+# 🎧 DLC: MUSIC
+
+I also do **music production as a side hustle**.
+
+Synth programming · Sound design · Arrangement · Production
+
+<br>
+
+**Different medium. Same obsession with making things.**
+
+</div>
+
+---
+
+<div align="center">
+
+# 💾 SAVE POINT
+
+```text
+PLAYER        Balaji Akash
+CURRENT AREA  AI / Software
+MAIN QUEST    Build better things
+SIDE QUEST    Music
+NEXT BOSS     Whatever I haven't figured out yet
+```
+
+<br>
+
+### `GAME STATUS: STILL PLAYING.`
+
+<br>
 
 <a href="https://github.com/balajiakash6">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/balaji-akash-1a832b334/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:balajiakash06@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1S3YkwX2mDXAp6Gmqa-Lwkye0rCOmaQKp/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 <br><br>
 
-<sub>Built with code, caffeine and questionable amounts of debugging.</sub>
+<sub>Made with code, curiosity & a suspicious amount of debugging.</sub>
 
 <br><br>
 
