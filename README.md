@@ -1,84 +1,104 @@
 <div align="center">
-  
-  <h1>Balaji Akash S</h1>
-  <h3>Engineering Ideas. Exploring AI. Building What’s Next.</h3>
-  
-  <p>
-    <b>B.Tech Computer Science Engineering @ SRMIST</b><br>
-    Backend Developer • AI Enthusiast • Music Producer
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/balaji akash" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:balajiakash06@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://drive.google.com/file/d/1S3YkwX2mDXAp6Gmqa-Lwkye0rCOmaQKp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-%234285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
-    <a href="https://twitter.com/balajiakash7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=balajiakash6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- Sci-Fi HUD Boot Sequence -->
+  <a href="https://github.com/balajiakash6">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=>_SYS.BOOT+BALAJI_AKASH;>_ENGINEERING+IDEAS...;>_BUILDING+WHAT'S+NEXT...;>_SYSTEM_READY." alt="HUD Typing" />
+  </a>
 </div>
 
----
+<!-- TERMINAL UI BLOCK -->
+<table align="center" width="100%" border="0" cellpadding="15">
+  <tr>
+    <td bgcolor="#0D1117">
+      <h3 align="center"><font color="#00E5FF">/> TERMINAL: USER_PROFILE // DATA_CORE</font></h3>
+      <p align="center"><font color="#A6A6A6">
+        Executing sequence... B.Tech CSE candidate at SRMIST initialized. Current CGPA telemetry: 8.76. 
+        Focusing computational power on backend architectures, data structures, and algorithmic optimization. 
+        When offline from the IDE, processing audio pipelines and rendering digital skit content for the <i>naisekar</i> broadcast channel.
+      </font></p>
+      <p align="center">
+        <a href="https://linkedin.com/in/balaji akash" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+        <a href="mailto:balajiakash06@gmail.com"><img src="https://img.shields.io/badge/COMM_LINK-000000?style=for-the-badge&logo=gmail&logoColor=00FF99" alt="Email" /></a>
+        <a href="https://www.leetcode.com/balajiakash67" target="_blank"><img src="https://img.shields.io/badge/ALGORITHMS-000000?style=for-the-badge&logo=leetcode&logoColor=00E5FF" alt="LeetCode" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## ⚡ About Me
+<br>
 
-I'm a Computer Science student passionate about building intelligent, highly-optimized systems. Whether I'm working with complex data structures in Java and C, developing web-based emergency traffic prioritization systems, or currently building out **LostLink**, I like solving real-world problems with clean code. 
-
-When I step away from the IDE, I flex my creative muscles—I'm an active YouTube content creator doing digital skits and I produce music in Logic Pro as a side hustle. 
-
-- 🔭 Currently working on: **LostLink**
-- 🌱 Exploring: Advanced Spring Boot architectures, AI/ML integrations, and optimized routing algorithms.
-- 💬 Ask me about: **Java, Python, backend system design, or audio production.**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages:**<br>
-<a href="#"><img src="https://skillicons.dev/icons?i=java,python,c,cpp,swift,js,html,css" /></a>
-
-**Frameworks & Libraries:**<br>
-<a href="#"><img src="https://skillicons.dev/icons?i=spring,react,bootstrap,nodejs,tensorflow,pytorch" /></a>
-
-**Databases & Cloud:**<br>
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,firebase,aws,docker" /></a>
-
-**Tools & Creative:**<br>
-<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,ps,unreal" /></a>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[LostLink](#)** | *(Brief 1-sentence description of what LostLink does and why it's cool).* | `Java` `Spring Boot` |
-| **[GreenRoute](#)** | A lightweight, web-based traffic signal priority system that creates temporary green corridors for emergency vehicles. | `HTML` `Thymeleaf` `Java` |
-
-*(Note: Replace the `#` with your actual repository links!)*
-
----
-
-## 📊 GitHub Analytics
+<h2 align="center"><font color="#00FF99">/> CORE_TECHNOLOGY_NODE</font></h2>
 
 <div align="center">
-  <table border="0">
+  <p><font color="#A6A6A6"><code>[ SYSTEM_STACK: INITIALIZED ]</code></font></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,mysql,aws,docker&theme=dark" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,androidstudio,ps,unreal&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center"><font color="#00E5FF">/> ACTIVE_DEPLOYMENTS</font></h2>
+
+<table align="center" width="100%" border="0" cellpadding="10">
+  <tr bgcolor="#0D1117">
+    <th width="25%" align="left"><font color="#00FF99">MODULE</font></th>
+    <th width="20%" align="left"><font color="#00FF99">STATUS</font></th>
+    <th width="55%" align="left"><font color="#00FF99">TELEMETRY_DATA</font></th>
+  </tr>
+  <tr>
+    <td><b>LostLink</b></td>
+    <td><font color="#FF007F">[ COMPILING ]</font></td>
+    <td><font color="#A6A6A6"><i>(Enter your core directive for LostLink here)</i></font></td>
+  </tr>
+  <tr bgcolor="#0D1117">
+    <td><b>GreenRoute</b></td>
+    <td><font color="#00E5FF">[ OPERATIONAL ]</font></td>
+    <td><font color="#A6A6A6">Web-based traffic signal priority system generating dynamic green corridors for emergency vehicles.</font></td>
+  </tr>
+  <tr>
+    <td><b>Barclays Hack-O-Hire</b></td>
+    <td><font color="#FFB800">[ PENDING: MAR 2026 ]</font></td>
+    <td><font color="#A6A6A6">Targeted operation for competitive algorithmic problem-solving and rapid prototyping.</font></td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center"><font color="#00FF99">/> SYSTEM_TELEMETRY</font></h2>
+
+<div align="center">
+  <table border="0" cellpadding="5">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=balajiakash6&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="GitHub Stats" />
+        <a href="https://github.com/balajiakash6">
+          <img src="https://github-readme-stats.vercel.app/api?username=balajiakash6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00E5FF&text_color=A6A6A6" alt="Telemetry Stats" />
+        </a>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajiakash6&theme=transparent&hide_border=true&title_color=0e75b6&text_color=a6a6a6&icon_color=0e75b6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+        <a href="https://github.com/balajiakash6">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajiakash6&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF99&currStreakNum=00E5FF" alt="Uptime Streak" />
+        </a>
       </td>
     </tr>
   </table>
   
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balajiakash6&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=a6a6a6" alt="Top Languages" />
+  
+  <p><font color="#A6A6A6"><code>[ NETWORK_ACTIVITY_GRID ]</code></font></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/balajiakash6/balajiakash6/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajiakash6&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
+  <p><font color="#A6A6A6"><i>System processing offline tasks: Audio production via Logic Pro // Hardware testing via PS5 (240Hz).</i></font></p>
+  <p><font color="#00E5FF"><b>END OF TRANSMISSION.</b></font></p>
 </div>
